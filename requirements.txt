@@ -1,0 +1,4 @@
+cryptography==2.7
+Django==2.2.4
+djangorestframework==3.10.2
+gunicorn==19.7.1
